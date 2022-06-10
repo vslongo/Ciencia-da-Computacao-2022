@@ -1,2 +1,2 @@
 # Ciencia-da-Computacao-2022
-Exercicios e projetos da faculdade
+Exercicios em C do primeiro semestre;
